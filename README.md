@@ -46,7 +46,7 @@ It fetches live FPL data, merges it with external datasets, and builds a mathema
 
 ## 🚀 Features
 - Single-period FPL optimisation model.  
-- Multi-period optimisation (planning ahead for multiple weeks).  
+- Multi-period optimisation (**Still in progress** planning ahead for multiple weeks).  
 - Integration of external expected points data.  
 - Example outputs and solutions for validation.  
 - Jupyter notebook tutorials explaining the approach.  
