@@ -15,26 +15,30 @@ The project combines:
 - FPL Review & API data for realistic inputs.  
 
 ## 📂 Project Structure
+
+```text
 FPL-Optimisation-Project/
-├── FPL Machine learning/ # Jupyter notebooks and experiments
-│ ├── code/ # Main optimisation notebooks and outputs
-│ │ ├── FPL.ipynb
-│ │ ├── Tutorial 1 - GK problem with method.ipynb
-│ │ ├── Tutorial 2 - Single Period FPL.ipynb
-│ │ ├── single_period.mps # MPS formulation for single-period optimisation
-│ │ ├── solution.txt # Example solution outputs
-│ │ └── ...
-│ ├── data/ # Input datasets
-│ │ ├── fplreview.csv # Expected points from FPL Review
-│ │ ├── players.csv # Player metadata
-│ │ └── teams.csv # Team information
-│ └── solver/ # Optimisation solver experiments
-│ └── src/ # Python implementations of solvers
-│ ├── multi_period.py # Multi-period optimisation model
-│ ├── single_period.py # Single-period optimisation model
-│ └── single_period.mps
+├── FPL Machine learning/        # Jupyter notebooks and experiments
+│   ├── code/                    # Main optimisation notebooks and outputs
+│   │   ├── FPL.ipynb
+│   │   ├── Tutorial 1 - GK problem with method.ipynb
+│   │   ├── Tutorial 2 - Single Period FPL.ipynb
+│   │   ├── single_period.mps    # MPS formulation for single-period optimisation
+│   │   ├── solution.txt         # Example solution outputs
+│   │   └── …
+│   ├── data/                    # Input datasets
+│   │   ├── fplreview.csv        # Expected points from FPL Review
+│   │   ├── players.csv          # Player metadata
+│   │   └── teams.csv            # Team information
+│   └── solver/                  # Optimisation solver experiments
+│       └── src/                 # Python implementations of solvers
+│           ├── multi_period.py  # Multi-period optimisation model
+│           ├── single_period.py # Single-period optimisation model
+│           └── single_period.mps
 │
-└── README.md # Project documentation (this file)
+└── README.md                    # Project documentation (this file)
+```
+
 
 
 ## 🚀 Features
