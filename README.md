@@ -1,8 +1,9 @@
-# FPL-Optimisation-Project
-A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API.  
+# FPL-Optimisation-Project - Project Overview
+A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API. 
 
-## 📌 Project Overview
-This project explores Fantasy Premier League (FPL) optimisation using machine learning and mathematical programming. The aim is to create algorithms that maximise expected points across single and multi-gameweek scenarios, given constraints such as budget, squad size, and position requirements.  
+Portions of this README follow the structure and guidance provided in [FPL-Optimization-Tools](https://github.com/otheruser/their-repo). Full credit to the original author.
+Data is found at - [Data](https://github.com/olbauday/FPL-Elo-Insights)
+
 
 The project combines:  
 - Linear programming (LP) / Mixed-integer programming (MIP) for optimisation.  
