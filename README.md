@@ -2,20 +2,19 @@
 A project built to optimise FPL points with a input budget constraints and given player constraints. Data is found from open source GitHub repositories as well as the offical FPL API
 
 
-📌 Project Overview
+# FPL-Optimisation-Project
+A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API.  
 
-This project explores Fantasy Premier League (FPL) optimisation using machine learning and mathematical programming. The aim is to create algorithms that maximise expected points across single and multi-gameweek scenarios, given constraints such as budget, squad size, and position requirements.
+## 📌 Project Overview
+This project explores Fantasy Premier League (FPL) optimisation using machine learning and mathematical programming. The aim is to create algorithms that maximise expected points across single and multi-gameweek scenarios, given constraints such as budget, squad size, and position requirements.  
 
-The project combines:
+The project combines:  
+- Linear programming (LP) / Mixed-integer programming (MIP) for optimisation.  
+- Python (pandas, numpy, etc.) for data handling.  
+- Solver integration (CBC, etc.) for finding optimal squads.  
+- FPL Review & API data for realistic inputs.  
 
-Linear programming (LP) / Mixed-integer programming (MIP) for optimisation.
-
-Python (pandas, numpy, etc.) for data handling.
-
-Solver integration (CBC, etc.) for finding optimal squads.
-
-FPL Review & API data for realistic inputs.
-
+## 📂 Project Structure
 FPL-Optimisation-Project/
 ├── FPL Machine learning/ # Jupyter notebooks and experiments
 │ ├── code/ # Main optimisation notebooks and outputs
@@ -37,7 +36,8 @@ FPL-Optimisation-Project/
 │
 └── README.md # Project documentation (this file)
 
-## 🚀 Features  
+
+## 🚀 Features
 - Single-period FPL optimisation model.  
 - Multi-period optimisation (planning ahead for multiple weeks).  
 - Integration of external expected points data.  
@@ -52,3 +52,4 @@ FPL-Optimisation-Project/
 ```bash
 git clone https://github.com/yourusername/FPL-Optimisation-Project.git
 cd FPL-Optimisation-Project
+
