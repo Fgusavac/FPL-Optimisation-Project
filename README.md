@@ -3,7 +3,7 @@ A project built to optimise FPL points with input budget constraints and given p
 
 # Acknowledgements
 - This code follow the structure and guidance provided in [FPL-Optimization-Tools](https://github.com/otheruser/their-repo). Full credit to the original author.
-- Data is found at - [Data](https://github.com/olbauday/FPL-Elo-Insights)
+- Data is found at - [FPL-Elo-Insights](https://github.com/olbauday/FPL-Elo-Insights)
 
 
 The project combines:  
