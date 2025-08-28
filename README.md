@@ -44,7 +44,7 @@ FPL-Optimisation-Project/
 This module implements a **single-period Fantasy Premier League (FPL) optimisation model**.  
 It fetches live FPL data, merges it with external datasets, and builds a mathematical programming model to select the best squad under budget and game rules.  
 
-📂 File: [single_period.py](FPL%20Machine%20learning/solver/src/single_period.py)
+[Single-Period Optimisation](single_period.md) → Optimisation model for selecting the best squad in a single gameweek.
 
 ---
 
