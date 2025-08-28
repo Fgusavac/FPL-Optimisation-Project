@@ -2,7 +2,7 @@
 A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API. 
 
 # Acknowledgements
-- Portions of this README follow the structure and guidance provided in [FPL-Optimization-Tools](https://github.com/otheruser/their-repo). Full credit to the original author.
+- This code follow the structure and guidance provided in [FPL-Optimization-Tools](https://github.com/otheruser/their-repo). Full credit to the original author.
 - Data is found at - [Data](https://github.com/olbauday/FPL-Elo-Insights)
 
 
