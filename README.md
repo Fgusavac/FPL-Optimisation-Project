@@ -58,7 +58,7 @@ It fetches live FPL data, merges it with external datasets, and builds a mathema
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/FPL-Optimisation-Project.git
+git clone https://github.com/Fgusavac/FPL-Optimisation-Project.git
 cd FPL-Optimisation-Project
 run 'sinlge_period.py' 
 
