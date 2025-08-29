@@ -1,8 +1,10 @@
-# FPL-Optimisation-Project
-A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API.  
+# FPL-Optimisation-Project - Project Overview
+A project built to optimise FPL points with input budget constraints and given player constraints. Data is sourced from open-source GitHub repositories as well as the official FPL API. 
 
-## 📌 Project Overview
-This project explores Fantasy Premier League (FPL) optimisation using machine learning and mathematical programming. The aim is to create algorithms that maximise expected points across single and multi-gameweek scenarios, given constraints such as budget, squad size, and position requirements.  
+# Acknowledgements
+- This code follow the structure and guidance provided in [FPL-Optimization-Tools](https://github.com/otheruser/their-repo). Full credit to the original author.
+- Data is found at - [FPL-Elo-Insights](https://github.com/olbauday/FPL-Elo-Insights)
+
 
 The project combines:  
 - Linear programming (LP) / Mixed-integer programming (MIP) for optimisation.  
@@ -38,7 +40,7 @@ FPL-Optimisation-Project/
 # ⚽ Single-Period FPL Optimisation
 
 This module implements a **single-period Fantasy Premier League (FPL) optimisation model**.  
-It fetches live FPL data, merges it with external datasets, and builds a mathematical programming model to select the best squad under budget and game rules.  
+It fetches live FPL data, merges it with external datasets, and builds a mathematical programming model to select the best squad under budget and game rules for a sinlge gameweek in fanstasy football 
 
 [Single-Period Optimisation](Single_Period.md) → Optimisation model for selecting the best squad in a single gameweek.
 
@@ -49,7 +51,6 @@ It fetches live FPL data, merges it with external datasets, and builds a mathema
 - Multi-period optimisation (**Still in progress** planning ahead for multiple weeks).  
 - Integration of external expected points data.  
 - Example outputs and solutions for validation.  
-- Jupyter notebook tutorials explaining the approach.  
 
 ---
 
@@ -57,6 +58,7 @@ It fetches live FPL data, merges it with external datasets, and builds a mathema
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/FPL-Optimisation-Project.git
+git clone https://github.com/Fgusavac/FPL-Optimisation-Project.git
 cd FPL-Optimisation-Project
+run 'sinlge_period.py' 
 
