@@ -84,7 +84,7 @@ def solve_single_period_fpl(budget):
 
     model.set_objective(-total_points, sense='N', name='total_xp');
     model.export_mps(f'single_period_{budget}.mps')
-    command = f'cbc single_period.mps -solve -solu solutution_sp_{budget}.txt'
+    command = f'cbc single_period_{budget}.mps -solve -solu solutution_sp_{budget}.txt'
     Popen(command, shell=True, stdout=DEVNULL).wait()
     #os.system(command)
     for v in model.get_variables():

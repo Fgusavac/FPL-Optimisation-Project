@@ -3090,7 +3090,7 @@ COLUMNS
         squad[130]                   valid_squad[3]                 1.00 budget_limit              4.5
         squad[130]                   team_limit['Brentford']        1.00                              
         squad[131]                   squad_count                    1.00 lineup_squad_rel[131]    -1.0
-        squad[131]                   valid_squad[3]                 1.00 budget_limit              4.5
+        squad[131]                   valid_squad[3]                 1.00 budget_limit              4.4
         squad[131]                   team_limit['Brentford']        1.00                              
         squad[132]                   squad_count                    1.00 lineup_squad_rel[132]    -1.0
         squad[132]                   valid_squad[3]                 1.00 budget_limit              4.5
@@ -3180,7 +3180,7 @@ COLUMNS
         squad[162]                   valid_squad[3]                 1.00 budget_limit              5.4
         squad[162]                   team_limit['Brighton']         1.00                              
         squad[163]                   squad_count                    1.00 lineup_squad_rel[163]    -1.0
-        squad[163]                   valid_squad[3]                 1.00 budget_limit              5.4
+        squad[163]                   valid_squad[3]                 1.00 budget_limit              5.3
         squad[163]                   team_limit['Brighton']         1.00                              
         squad[164]                   squad_count                    1.00 lineup_squad_rel[164]    -1.0
         squad[164]                   valid_squad[3]                 1.00 budget_limit              5.5
@@ -3321,7 +3321,7 @@ COLUMNS
         squad[249]                   valid_squad[4]                 1.00 budget_limit              7.7
         squad[249]                   team_limit['Chelsea']          1.00                              
         squad[250]                   squad_count                    1.00 lineup_squad_rel[250]    -1.0
-        squad[250]                   valid_squad[4]                 1.00 budget_limit              6.4
+        squad[250]                   valid_squad[4]                 1.00 budget_limit              6.3
         squad[250]                   team_limit['Chelsea']          1.00                              
         squad[251]                   squad_count                    1.00 lineup_squad_rel[251]    -1.0
         squad[251]                   valid_squad[4]                 1.00 budget_limit              6.5
@@ -3714,7 +3714,7 @@ COLUMNS
         squad[379]                   valid_squad[2]                 1.00 budget_limit              3.9
         squad[379]                   team_limit['Liverpool']        1.00                              
         squad[380]                   squad_count                    1.00 lineup_squad_rel[380]    -1.0
-        squad[380]                   valid_squad[2]                 1.00 budget_limit              4.0
+        squad[380]                   valid_squad[2]                 1.00 budget_limit              3.9
         squad[380]                   team_limit['Liverpool']        1.00                              
         squad[381]                   squad_count                    1.00 lineup_squad_rel[381]    -1.0
         squad[381]                   valid_squad[3]                 1.00 budget_limit             14.5
@@ -4428,7 +4428,7 @@ COLUMNS
         squad[624]                   valid_squad[4]                 1.00 budget_limit              7.8
         squad[624]                   team_limit['West_Ham']         1.00                              
         squad[625]                   squad_count                    1.00 lineup_squad_rel[625]    -1.0
-        squad[625]                   valid_squad[4]                 1.00 budget_limit              5.9
+        squad[625]                   valid_squad[4]                 1.00 budget_limit              5.8
         squad[625]                   team_limit['West_Ham']         1.00                              
         squad[626]                   squad_count                    1.00 lineup_squad_rel[626]    -1.0
         squad[626]                   valid_squad[4]                 1.00 budget_limit              4.4
